@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmTest", "RealmTest\RealmTest.csproj", "{257C2E61-DEA3-49E9-A958-091AC59505AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmTest.Droid", "Droid\RealmTest.Droid.csproj", "{F4229623-AF49-400F-AFD4-247041045FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmTest.Droid.Tests", "RealmTest.Droid.Tests\RealmTest.Droid.Tests.csproj", "{134FBBA8-00CF-47C7-988F-C15D21450CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257C2E61-DEA3-49E9-A958-091AC59505AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257C2E61-DEA3-49E9-A958-091AC59505AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257C2E61-DEA3-49E9-A958-091AC59505AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257C2E61-DEA3-49E9-A958-091AC59505AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4229623-AF49-400F-AFD4-247041045FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4229623-AF49-400F-AFD4-247041045FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4229623-AF49-400F-AFD4-247041045FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4229623-AF49-400F-AFD4-247041045FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134FBBA8-00CF-47C7-988F-C15D21450CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134FBBA8-00CF-47C7-988F-C15D21450CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134FBBA8-00CF-47C7-988F-C15D21450CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134FBBA8-00CF-47C7-988F-C15D21450CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
